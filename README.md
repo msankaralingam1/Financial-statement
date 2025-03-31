@@ -15,3 +15,4 @@ Franchise Model: Higher Profitability & Growth
 Key Takeaway
 🔹 If stability & minimal effort are priorities → Rental Model is ideal.
  🔹 If maximizing profitability is the goal → Franchise Model is the better option.
+ D:\financial modelling\MCdonald case study\MCdonald financial model.xlsx
